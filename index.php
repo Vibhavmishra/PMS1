@@ -44,16 +44,16 @@
                         <label for="username">Name</label>
                         <input class="form-control" type="text" name="name" id="name" placeholder="write name" required />
                     </div>
-					<div class="form-group">
+                    <div class="form-group">
                         <label for="Age">Age</label>
                         <input class="form-control" type="date" name="dob" id="" placeholder="xxxxxxx" required />
                     </div>
-					 <div class="form-group">  
+                    <div class="form-group">  
                         <label for="username">Gender</label>
                         <select name="gender">
-						<option value="male">Male</option>
-						<option value="female">Female</option>
-						</select>
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
                     </div>
                     <div class="form-group">
                         <label for="username">Mobile</label>
@@ -63,7 +63,7 @@
                         <label for="email">Email</label>
                         <input class="form-control" type="text" name="email" id="email" placeholder="example.@gmail.com" required />
                     </div>
-					 <div class="form-group">
+                    <div class="form-group">
                         <label for="email">Address</label>
                         <input class="form-control" type="text" name="address" id="address" placeholder="xxxxxxxxx" required />
                     </div>
